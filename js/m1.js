@@ -16,3 +16,5 @@
 4.任何地方都可以使用window.frankGrowlUp
  =>任何地方都可以使用window.frankGrowup操作 person，但是不能直接访问 person
 */
+
+
